@@ -71,7 +71,6 @@ def f1(X1,coef1,X2,coef2,seed1,seed2,seed3,shape1,shape2):
     ans = np.matmul(w1, a1) + np.matmul(w2, a2) + b
     return ans
 
-#-------------------------------------------------------------------
 #input: numpy array
 def matrix_cofactor(array):
     arr = array
