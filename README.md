@@ -5,4 +5,5 @@ CS302, Fifth Semester
   ref: https://github.com/Renita1206/Learning-Data-Science   
 ### Week 4: KNN
 ### Week 5: ANN
-### Week 6: SVM
+### Week 6: SVM  
+### Week 7: Adaboost
