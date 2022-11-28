@@ -1,3 +1,6 @@
+# Renita Kurian - PES1UG20CS331
+## MI Coding Assignment - Train Neural Network using Genetic Algorithm for XOR gate
+
 import numpy
 import pygad
 import pygad.nn
@@ -32,7 +35,7 @@ g = pygad.GA(num_generations=50, num_parents_mating=3, initial_population=popula
 
 
 g.run()
-g.plot_fitness()
+#g.plot_fitness()
 solution, solution_fitness, x = g.best_solution()
-print(solution)
+#print(solution)
 print(solution_fitness)
