@@ -10,4 +10,10 @@ CS302, Fifth Semester
 - Week 6: SVM  
 - Week 7: Adaboost
 - Week 8: HMM
-- Week 9: K Means
+- Week 9: K Means  
+
+
+## Assignments  
+- Assignment 1 - Predict Customer Churning  
+- Assignment 3 - Genetic Algortihms to train Neural Networks  
+- Assignment 5 - CNN model
